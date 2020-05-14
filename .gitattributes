@@ -1,2 +1,2 @@
-vim: syntax=node js
-vim: set syntax=node js:
+* linguist-vendored
+*.js linguist-vendored=false
