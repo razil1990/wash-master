@@ -1,1 +1,2 @@
 vim: syntax=node js
+vim: set syntax=node js:
